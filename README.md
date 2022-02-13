@@ -12,7 +12,7 @@
  -->
 
 <!-- PROJECT NAME -->
-# 👾 JAVA BASIC AUTEHNTICATION SCREEN DEMO
+# 👾 JAVA BASIC AUTHENTICATION SCREEN DEMO
 
 <!-- DESCRIPTION -->
 This project are created for using as template for others repository.
