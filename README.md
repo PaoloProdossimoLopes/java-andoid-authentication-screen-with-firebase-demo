@@ -12,7 +12,7 @@
  -->
 
 <!-- PROJECT NAME -->
-#  REPOSITORY TEMPLATE
+# 👾 JAVA BASIC AUTEHNTICATION SCREEN DEMO
 
 <!-- DESCRIPTION -->
 This project are created for using as template for others repository.
@@ -24,7 +24,7 @@ This project are created for using as template for others repository.
 <!-- 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -33,14 +33,14 @@ This project are created for using as template for others repository.
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo/issues">Request Feature</a>
   </p>
 </div>
 -->
@@ -48,10 +48,10 @@ This project are created for using as template for others repository.
 
 
 <!-- INFO BADGES -->
-[![GitHub](https://img.shields.io/github/forks/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/repository-template)
-[![GitHub](https://img.shields.io/github/stars/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/repository-template)
-[![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/repository-template/issues)
-[![GitHub](https://img.shields.io/github/issues-pr/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/repository-template/pulls)
+[![GitHub](https://img.shields.io/github/forks/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo)
+[![GitHub](https://img.shields.io/github/stars/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo)
+[![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo/issues)
+[![GitHub](https://img.shields.io/github/issues-pr/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo/pulls)
 
 
 
@@ -60,8 +60,8 @@ This project are created for using as template for others repository.
 * IF YOUR WAS USING THE V2 HEADER YOU DON NEED THIS SETION
 
 ## 🔎  ACTIONS
-[![REPORT ISSUE](https://img.shields.io/badge/-⚠️_REPORT_ISSUE-grey?style=flat-square&logo=pull_request&logoColor=white)](https://github.com/PaoloProdossimoLopes/repository-template/issues)
-[![PULL REQUEST](https://img.shields.io/badge/-⤴️_PULL_REQUEST-grey?style=flat-square&logo=pull_request&logoColor=white)](https://github.com/PaoloProdossimoLopes/repository-template/pulls)
+[![REPORT ISSUE](https://img.shields.io/badge/-⚠️_REPORT_ISSUE-grey?style=flat-square&logo=pull_request&logoColor=white)](https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo/issues)
+[![PULL REQUEST](https://img.shields.io/badge/-⤴️_PULL_REQUEST-grey?style=flat-square&logo=pull_request&logoColor=white)](https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo/pulls)
 -->
 
 
@@ -72,7 +72,6 @@ This project are created for using as template for others repository.
     - [PREREQUISITES](#prerequisites)
     - [INSTALATION](#instalation)
     - [RUN](#run)
-4. [USAGE](#usage) 
 3. [CONTRIBUTING](#contributing)
 4. [LICENSE](#license)
 5. [CONTACT](#contact)
@@ -99,7 +98,7 @@ This project are created for using as template for others repository.
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/repository-template.git
+git clone https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo.git
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
@@ -113,16 +112,18 @@ So that you can run the project follow this steps:
 
 
 <!-- USAGE EXAMPLES -->
+<!--
 ## 🪄  USAGE <a name="usage"></a>
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
-
+-->
 
 
 <!-- ROADMAP -->
+<!--
 ## ☑️  Roadmap
 
 - [X] Do this.
@@ -133,7 +134,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/PaoloProdossimoLopes/repository-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
-
+-->
 
 
 <!-- CONTRIBUTING -->
@@ -157,7 +158,7 @@ Don't forget to give the project a star! Thanks again!
 ## 📃  LICENSE <a name="license"></a>
 The MIT license was used in this project.
 
-![GitHub](https://img.shields.io/github/license/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)
+![GitHub](https://img.shields.io/github/license/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo?color=black&style=flat-square)
 
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
