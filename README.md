@@ -101,7 +101,6 @@ This project are created for using as template for others repository.
 ```sh
 git clone https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo.git
 ```
-3. Open the file with extension .xcodeproj inside the folder project.
    
 ### RUN
 So that you can run the project follow this steps:
