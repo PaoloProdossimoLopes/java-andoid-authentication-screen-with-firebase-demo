@@ -12,7 +12,7 @@
  -->
 
 <!-- PROJECT NAME -->
-# 👾 JAVA BASIC AUTEHNTICATION SCREEN DEMO
+# 👾 JAVA BASIC AUTHENTICATION SCREEN DEMO
 
 <!-- DESCRIPTION -->
 This project are created for using as template for others repository.
@@ -80,8 +80,9 @@ This project are created for using as template for others repository.
 
 <!-- SCREENSHOTS -->
 ## 📸  SCREENSHOTS <a name="screenshots"></a>
+<img src="https://github.com/PaoloProdossimoLopes/java-andoid-authentication-screen-with-firebase-demo/blob/main/README_ASSETS/SCREENSHOTS/Screenshot_20220213_172014.png" height="400"> 
 <!-- 
-<img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_LOADER.png" height="300">                                 <img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_HOME.png" height="300">                               
+<img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_HOME.png" height="300">                               
 -->
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
